@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36975539-67e0-4ef3-b1dd-716b13644ca8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitingore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitingore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitingore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/.gitingore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -146,6 +146,16 @@
             <path>
               <item name="GScala" type="b2602c69:ProjectViewProjectNode" />
               <item name="GScala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GScala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GScala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GScala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GScala" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GScala" type="b2602c69:ProjectViewProjectNode" />
@@ -277,12 +287,12 @@
       <workItem from="1565606114012" duration="1219000" />
       <workItem from="1565610903760" duration="1573000" />
       <workItem from="1566196228673" duration="33444000" />
-      <workItem from="1566349082104" duration="55002000" />
+      <workItem from="1566349082104" duration="55299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95104000" />
+    <option name="totallyTimeSpent" value="95401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -682,7 +692,7 @@
     <entry file="file://$PROJECT_DIR$/.gitingore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
         </state>
       </provider>
     </entry>
