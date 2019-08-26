@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36975539-67e0-4ef3-b1dd-716b13644ca8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitingore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitingore" afterDir="false" />
-    </list>
+    <list default="true" id="36975539-67e0-4ef3-b1dd-716b13644ca8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,10 +34,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitingore">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -61,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/com/ll/charpter02/myexception/ThrowDemo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/ll/charpter02/myexception/ThrowsComment.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/ll/charpter02/exercise/Exercise01.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/ll/charpter03/oop/Catdemo.scala" />
@@ -112,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/ll/charpter04/mixin/AddTraits.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/ll/charpter04/mixin/MinInDemo02.scala" />
         <option value="$PROJECT_DIR$/.gitingore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -287,12 +285,12 @@
       <workItem from="1565606114012" duration="1219000" />
       <workItem from="1565610903760" duration="1573000" />
       <workItem from="1566196228673" duration="33444000" />
-      <workItem from="1566349082104" duration="55299000" />
+      <workItem from="1566349082104" duration="55548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95401000" />
+    <option name="totallyTimeSpent" value="95650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -689,10 +687,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitingore">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
         </state>
       </provider>
     </entry>
