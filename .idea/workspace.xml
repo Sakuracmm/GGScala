@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="36975539-67e0-4ef3-b1dd-716b13644ca8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+=======
+    <list default="true" id="7f4e7bfb-2c7a-45e1-bee4-adf9616126c6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
+<<<<<<< HEAD
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
@@ -43,22 +49,37 @@
         </entry>
       </file>
     </leaf>
+=======
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
         <option value="Package Object" />
+=======
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/scala/com/ll/charpter02/myexception/ThrowsComment.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/ll/charpter02/exercise/Exercise01.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/ll/charpter03/oop/Catdemo.scala" />
@@ -110,13 +131,43 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/ll/charpter04/mixin/MinInDemo02.scala" />
         <option value="$PROJECT_DIR$/.gitingore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+=======
+        <option value="$PROJECT_DIR$/src/com/ll/charpter05/mixin/MixInPro.scala" />
+        <option value="$PROJECT_DIR$/src/com/ll/charpter05/mixin/MixInSeq.scala" />
+        <option value="$PROJECT_DIR$/src/com/ll/charpter05/extendstrait/ExtendTraitDemo01.scala" />
+        <option value="$PROJECT_DIR$/src/com/ll/charpter05/selftype/SelfTypeDemo.scala" />
+        <option value="$PROJECT_DIR$/src/com/ll/charpter05/innerclass/JavaInnerClass.java" />
+        <option value="$PROJECT_DIR$/src/com/ll/charpter05/innerclass/ScalaInnerClass.scala" />
+        <option value="$PROJECT_DIR$/src/com/ll/charpter05/innerclass/ScalaInnerClassDemo.scala" />
+        <option value="$PROJECT_DIR$/src/com/ll/Charpter06/ImpliciDemo01.scala" />
+        <option value="$PROJECT_DIR$/src/com/ll/Charpter06/ImplicitDemo02.scala" />
+        <option value="$PROJECT_DIR$/src/com/ll/Charpter06/ImplicitValDemo03.scala" />
+        <option value="$PROJECT_DIR$/src/com/ll/Charpter06/ImplicitVal02.scala" />
+        <option value="$PROJECT_DIR$/src/com/ll/Charpter06/ImplicitVal03.scala" />
+        <option value="$PROJECT_DIR$/src/com/ll/Charpter06/ImplicitClassDemo.scala" />
+        <option value="$PROJECT_DIR$/src/com/ll/charpter01/iden/IdenDemo01.scala" />
+        <option value="$PROJECT_DIR$/src/com/ll/charpter03/scalapackage/TestCat.scala" />
+        <option value="$PROJECT_DIR$/src/com/ll/charpter03/homework/Exercise03.scala" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
+<<<<<<< HEAD
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+=======
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
       </MavenImportingSettings>
     </option>
   </component>
@@ -124,6 +175,7 @@
     <option name="files">
       <list>
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+<<<<<<< HEAD
       </list>
     </option>
   </component>
@@ -131,6 +183,17 @@
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="692" />
+=======
+        <option value="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_13_0.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="685" />
+    <option name="height" value="734" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -140,8 +203,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="PackagesPane" />
+=======
+      <pane id="CatdeaLogs" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,12 +225,32 @@
               <item name="GScala" type="b2602c69:ProjectViewProjectNode" />
               <item name="GScala" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="main" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GScala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GScala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GScala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GScala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ll" type="462c0819:PsiDirectoryNode" />
+              <item name="Charpter06" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,6 +264,28 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+=======
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/ll" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\GScala\src\com\ll" />
+    </key>
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -190,6 +299,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.AddTraits">
     <configuration name="AddTraits" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ll.charpter04.mixin.AddTraits" />
@@ -197,6 +307,15 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ll.charpter04.mixin.*" />
+=======
+  <component name="RunManager" selected="Application.Method2Function">
+    <configuration name="ImplicitClassDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ll.Charpter06.ImplicitClassDemo" />
+      <module name="GScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ll.Charpter06.*" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +323,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="MinInDemo01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ll.charpter04.mixin.MinInDemo01" />
       <module name="GScala" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ll.charpter04.mixin.*" />
+=======
+    <configuration name="ImplicitVal02" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ll.Charpter06.ImplicitVal02" />
+      <module name="GScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ll.Charpter06.*" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +345,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="MinInDemo02" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ll.charpter04.mixin.MinInDemo02" />
       <module name="GScala" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ll.charpter04.mixin.*" />
+=======
+    <configuration name="ImplicitVal03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ll.Charpter06.ImplicitVal03" />
+      <module name="GScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ll.Charpter06.*" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +367,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="SingleTonDemo" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ll.charpter04.SingleTonDemo" />
       <module name="GScala" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ll.charpter04.*" />
+=======
+    <configuration name="ImplicitValDemo03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ll.Charpter06.ImplicitValDemo03" />
+      <module name="GScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ll.Charpter06.*" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +389,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="TraitDemo03" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ll.charpter04.mytrait.TraitDemo03" />
       <module name="GScala" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ll.charpter04.mytrait.*" />
+=======
+    <configuration name="Method2Function" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ll.charpter02.Method2Function" />
+      <module name="GScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ll.charpter02.*" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,11 +413,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.MinInDemo02" />
         <item itemvalue="Application.AddTraits" />
         <item itemvalue="Application.MinInDemo01" />
         <item itemvalue="Application.SingleTonDemo" />
         <item itemvalue="Application.TraitDemo03" />
+=======
+        <item itemvalue="Application.Method2Function" />
+        <item itemvalue="Application.ImplicitClassDemo" />
+        <item itemvalue="Application.ImplicitVal03" />
+        <item itemvalue="Application.ImplicitVal02" />
+        <item itemvalue="Application.ImplicitValDemo03" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
       </list>
     </recent_temporary>
   </component>
@@ -271,6 +434,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="36975539-67e0-4ef3-b1dd-716b13644ca8" name="Default Changelist" comment="" />
       <created>1565335078327</created>
       <option name="number" value="Default" />
@@ -285,10 +449,19 @@
       <workItem from="1565610903760" duration="1573000" />
       <workItem from="1566196228673" duration="33444000" />
       <workItem from="1566349082104" duration="55548000" />
+=======
+      <changelist id="7f4e7bfb-2c7a-45e1-bee4-adf9616126c6" name="Default Changelist" comment="" />
+      <created>1566710118566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566710118566</updated>
+      <workItem from="1566710121188" duration="15577000" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="97318000" />
   </component>
   <component name="ToolWindowManager">
@@ -324,12 +497,49 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+=======
+    <option name="totallyTimeSpent" value="15577000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26172706" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.48481563" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" weight="0.18004338" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.46746203" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/ll/charpter03/homework/package.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/ll/charpter03/homework/Exercise01.scala">
       <provider selected="true" editor-type-id="text-editor">
@@ -537,10 +747,75 @@
             <element signature="e#439#440#0" expanded="true" />
             <element signature="e#832#833#0" expanded="true" />
             <element signature="e#856#857#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/ll/charpter05/mixin/MixInPro.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ll/charpter05/mixin/MixInSeq.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="43" column="4" selection-end-line="75" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ll/Charpter06/ImplicitClassDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ll/Charpter06/ImplicitVal03.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="12" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ll/Charpter06/ImplicitVal02.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ll/Charpter06/ImplicitValDemo03.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ll/Charpter06/ImplicitDemo02.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ll/Charpter06/ImpliciDemo01.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ll/charpter05/innerclass/ScalaInnerClassDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#38#62#0" expanded="true" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/ll/charpter03/myextends/ScalaFiledOverride.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -598,10 +873,22 @@
           <folding>
             <element signature="e#189#315#0" expanded="true" />
             <element signature="e#314#315#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/ll/charpter05/innerclass/JavaInnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/ll/charpter04/AccompanyObject.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -686,12 +973,83 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/ll/charpter05/selftype/SelfTypeDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ll/charpter05/extendstrait/ExtendTraitDemo01.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ll/charpter01/iden/IdenDemo01.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ll/charpter03/homework/Exercise03.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="19" column="7" lean-forward="true" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ll/charpter03/scalapackage/xh/Cat.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ll/charpter03/scalapackage/TestCat.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="12" selection-start-line="12" selection-start-column="2" selection-end-line="15" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ll/charpter02/Method2Function.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+<<<<<<< HEAD
+=======
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -714,9 +1072,15 @@
           </splitter-proportions>
         </settings>
       </state>
+<<<<<<< HEAD
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+=======
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GScala</last-edited>
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -726,8 +1090,14 @@
           </splitter-proportions>
         </settings>
       </state>
+<<<<<<< HEAD
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+=======
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -737,8 +1107,14 @@
           </splitter-proportions>
         </settings>
       </state>
+<<<<<<< HEAD
       <state key="ScopeChooserConfigurable.UI">
         <settings>
+=======
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.13.0</last-edited>
+>>>>>>> 5bc990b1f50e4390da58a160ded2670600e4c34b
           <splitter-proportions>
             <option name="proportions">
               <list>
