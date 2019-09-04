@@ -1,4 +1,4 @@
-package com.ll.Charpter06
+package com.ll.charpter06
 
 object ImplicitDemo02 {
   //编写一个隐式函数，丰富mySQL的功能

@@ -1,4 +1,4 @@
-package com.ll.Charpter06
+package com.ll.charpter06
 
 object ImplicitClassDemo {
   def main(args: Array[String]): Unit = {

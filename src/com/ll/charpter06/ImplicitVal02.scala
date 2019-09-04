@@ -1,4 +1,4 @@
-package com.ll.Charpter06
+package com.ll.charpter06
 
 object ImplicitVal02 {
   def main(args: Array[String]): Unit = {
